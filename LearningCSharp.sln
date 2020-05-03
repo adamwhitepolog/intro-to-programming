@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningCSharp", "LearningCSharp\LearningCSharp.csproj", "{E78654AD-AD27-4911-80E6-7AF07E88083C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetcodeSamples", "LeetcodeSamples\LeetcodeSamples.csproj", "{6EFAC400-630C-489B-BBBF-9CF6F53B750D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E78654AD-AD27-4911-80E6-7AF07E88083C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E78654AD-AD27-4911-80E6-7AF07E88083C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E78654AD-AD27-4911-80E6-7AF07E88083C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E78654AD-AD27-4911-80E6-7AF07E88083C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EFAC400-630C-489B-BBBF-9CF6F53B750D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFAC400-630C-489B-BBBF-9CF6F53B750D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFAC400-630C-489B-BBBF-9CF6F53B750D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFAC400-630C-489B-BBBF-9CF6F53B750D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
